@@ -7,11 +7,10 @@
 **Шрифт**
 
 
-1. Hello world!
+1. Hello world! Hello world! 
 
-2. Ola ombre!
+2. Ola ombre! Ola ombre!
 
-3. Привет дружок!
+3. Привет дружок! Привет дружок!
 
-Helo world again
-Тоже привет!
+
