@@ -14,4 +14,4 @@
 3. Привет дружок!
 
 Тоже привет!
-conflict
+conflict conflict
