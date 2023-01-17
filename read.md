@@ -15,3 +15,5 @@
 
 Helo world again
 Тоже привет!
+ 
+ *__word__*
