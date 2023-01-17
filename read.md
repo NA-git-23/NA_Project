@@ -7,13 +7,11 @@
 **Шрифт**
 
 
-1. Hello world! Hello world! 
+1. Hello world! conflict
 
-2. Ola ombre! Ola ombre!
+2. Ola ombre! conflict
 
-3. Привет дружок! Привет дружок!
+3. Привет дружок!
 
-
-эта строка для конфликта с br4
-branch 4 
-что то еще добавим сюда...)
+Тоже привет!
+conflict
