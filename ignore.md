@@ -1,2 +1,2 @@
-kgkgkggqq fjvnfjv git add .
+сегодня хорошая погода с светит солнце
 git commit -m ""
